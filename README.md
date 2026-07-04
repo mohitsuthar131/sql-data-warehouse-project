@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics project
 
-Welcome to the Data Warehouse and Analytics project
+Welcome to the Data Warehouse and Analytics project.
 Building a modern warehouse with SQL Server, including ETL processes, data modeling, and analytics.
 This project demonstrates a comprehensive Data Warehouse and Analytics solution, from building a data warehouse to generating actionable insights. Design portfolio projects that highlight industry best practices in data engineering and analytics.
 
